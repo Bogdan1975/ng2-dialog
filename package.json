@@ -1,0 +1,52 @@
+{
+  "name": "ng2-dialog",
+  "version": "0.0.0",
+  "description": "Angular 2 dialog component to combine confirm, alert and notifier",
+  "author": "Bogdan Shapoval (targus) <it.targus@gmail.com>",
+  "main": "dialog.component.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bogdan1975/ng2-dialog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Bogdan1975/ng2-dialog/issues"
+  },
+  "keywords": [
+    "angular2",
+    "angular 2",
+    "ng2",
+    "dialog",
+    "ng2-dialog",
+    "angular2-dialog",
+    "alert",
+    "ng2-alert",
+    "angular2-alert",
+    "confirm",
+    "confirmation",
+    "ng2-confirm",
+    "ng2-confirmation",
+    "angular2-confirm",
+    "angular2-confirmation",
+    "noty",
+    "notify",
+    "notifying",
+    "notifier",
+    "ng2-noty",
+    "ng2-notify",
+    "ng2-notifying",
+    "ng2-notifier",
+    "angular2-noty",
+    "angular2-notify",
+    "angular2-notifying",
+    "angular2-notifier",
+    "modal",
+    "ng2-modal",
+    "angular2-modal",
+    "component"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Bogdan1975/ng2-dialog#readme"
+}
